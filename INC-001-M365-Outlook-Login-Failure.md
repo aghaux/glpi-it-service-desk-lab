@@ -127,8 +127,6 @@ Place redacted screenshots in a `screenshots/` folder and update the filenames b
 | Resolution | `screenshots/inc-001-resolution.png` | Simulated verification and solved status |
 | Closure | `screenshots/inc-001-closed.png` | Final Closed status in GLPI ticket list |
 
-> Before publishing, remove passwords, tokens, personal contact details, and any unrelated browser tabs or notifications. Use fictional names only where possible.
-
 ## 12. Lessons learned and next improvements
 
 - Separate initial symptoms, diagnostic hypotheses, confirmed findings, and remediation steps.
@@ -140,3 +138,5 @@ Place redacted screenshots in a `screenshots/` folder and update the filenames b
 ---
 
 **Portfolio note:** This case study is a controlled service desk simulation built to demonstrate incident management practices. It does not claim production Microsoft 365 administration or real-user account remediation.
+
+*all names are fictional*
