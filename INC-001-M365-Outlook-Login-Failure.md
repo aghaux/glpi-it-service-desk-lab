@@ -114,9 +114,7 @@ The L2 resolution note attributed the issue to an unavailable MFA authentication
 - End-user communication and validation of service restoration
 - Accurate distinction between simulated findings and live-system evidence
 
-## 11. Screenshots to include
-
-Place redacted screenshots in a `screenshots/` folder and update the filenames below to match your saved images.
+## 11. Screenshots 
 
 | Evidence | Suggested filename | What it shows |
 |---|---|---|
